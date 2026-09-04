@@ -1,0 +1,9 @@
+ipykernel
+pandas
+plotly
+scikit-learn
+google-cloud-storage
+google-cloud-bigquery
+pyyaml
+pytest
+jupyter
